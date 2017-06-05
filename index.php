@@ -1,5 +1,6 @@
 <?php
   echo "index.php";
+  echo "main.php";
 ?>
 <!DOCTYPE html>
 <html>
